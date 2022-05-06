@@ -20,7 +20,7 @@ necessidades da Vanessa?
 <br />
 
 <div align="center">
-  <img src="" width="700px" />
+  <img src="https://user-images.githubusercontent.com/22346303/167161009-f4211c50-5f04-4c7f-a99e-9ec2f2765d2a.png" width="700px" />
 <div>
   
 <br />
@@ -29,5 +29,5 @@ necessidades da Vanessa?
   1 - Os alunos precisam estar matriculados, posteriormente estarão vinculados as suas respectivas turmas, podendo escolher entre um ou mais idiomas aprender.<br />
   2 - Os idiomas mais vendidos,  se darão de acordo com as matriculas efetuadas, sendo abertas as turmas, de acordo com os idiomas onde foram matriculados.<br />
   3 - Através da matricula, estes alunos estão vinculados as turmas, sendo assim vinculados a quais idiomas frequentam.<br />
-  4 - Através da matricula efetuada, são gerados as turmas, que por sua vez possuem os valores da matricula de cada idioma.
+  4 - Através da matricula efetuada, são gerados as turmas, que por sua vez possuem os valores da matricula de cada idioma.<br/>
   5 - Efetuado a modelagem de livros para expensão de venda de livros pela escola.
